@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jessi\\OneDrive\\Documents\\cshorp-schl\\Game Development\\Administratie app\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2720768-8D94-464A-BBFB-29D8F0483A9E}|Administratie app\\Administratie app.csproj|c:\\users\\jessi\\onedrive\\documents\\cshorp-schl\\game development\\administratie app\\administratie app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2720768-8D94-464A-BBFB-29D8F0483A9E}|Administratie app\\Administratie app.csproj|solutionrelative:administratie app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jessi\\OneDrive\\Documents\\cshorp-schl\\Game Development\\Administratie app\\Administratie app\\Program.cs",
+              "RelativeDocumentMoniker": "Administratie app\\Program.cs",
+              "ToolTip": "C:\\Users\\Jessi\\OneDrive\\Documents\\cshorp-schl\\Game Development\\Administratie app\\Administratie app\\Program.cs",
+              "RelativeToolTip": "Administratie app\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T10:17:07.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

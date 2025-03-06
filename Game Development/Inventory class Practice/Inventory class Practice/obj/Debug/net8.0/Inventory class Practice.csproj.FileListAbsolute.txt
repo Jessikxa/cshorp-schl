@@ -1,0 +1,14 @@
+C:\Users\Jessi\OneDrive\Documents\Game Development\Inventory class Practice\Inventory class Practice\bin\Debug\net8.0\Inventory class Practice.exe
+C:\Users\Jessi\OneDrive\Documents\Game Development\Inventory class Practice\Inventory class Practice\bin\Debug\net8.0\Inventory class Practice.deps.json
+C:\Users\Jessi\OneDrive\Documents\Game Development\Inventory class Practice\Inventory class Practice\bin\Debug\net8.0\Inventory class Practice.runtimeconfig.json
+C:\Users\Jessi\OneDrive\Documents\Game Development\Inventory class Practice\Inventory class Practice\bin\Debug\net8.0\Inventory class Practice.dll
+C:\Users\Jessi\OneDrive\Documents\Game Development\Inventory class Practice\Inventory class Practice\bin\Debug\net8.0\Inventory class Practice.pdb
+C:\Users\Jessi\OneDrive\Documents\Game Development\Inventory class Practice\Inventory class Practice\obj\Debug\net8.0\Inventory class Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jessi\OneDrive\Documents\Game Development\Inventory class Practice\Inventory class Practice\obj\Debug\net8.0\Inventory class Practice.AssemblyInfoInputs.cache
+C:\Users\Jessi\OneDrive\Documents\Game Development\Inventory class Practice\Inventory class Practice\obj\Debug\net8.0\Inventory class Practice.AssemblyInfo.cs
+C:\Users\Jessi\OneDrive\Documents\Game Development\Inventory class Practice\Inventory class Practice\obj\Debug\net8.0\Inventory class Practice.csproj.CoreCompileInputs.cache
+C:\Users\Jessi\OneDrive\Documents\Game Development\Inventory class Practice\Inventory class Practice\obj\Debug\net8.0\Inventory class Practice.dll
+C:\Users\Jessi\OneDrive\Documents\Game Development\Inventory class Practice\Inventory class Practice\obj\Debug\net8.0\refint\Inventory class Practice.dll
+C:\Users\Jessi\OneDrive\Documents\Game Development\Inventory class Practice\Inventory class Practice\obj\Debug\net8.0\Inventory class Practice.pdb
+C:\Users\Jessi\OneDrive\Documents\Game Development\Inventory class Practice\Inventory class Practice\obj\Debug\net8.0\Inventory class Practice.genruntimeconfig.cache
+C:\Users\Jessi\OneDrive\Documents\Game Development\Inventory class Practice\Inventory class Practice\obj\Debug\net8.0\ref\Inventory class Practice.dll

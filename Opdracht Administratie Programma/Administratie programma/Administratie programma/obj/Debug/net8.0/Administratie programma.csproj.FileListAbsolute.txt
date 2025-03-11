@@ -1,0 +1,15 @@
+C:\Users\Jessi\OneDrive\Documents\cshorp-schl\Opdracht Administratie Programma\Administratie programma\Administratie programma\obj\Debug\net8.0\Administratie programma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jessi\OneDrive\Documents\cshorp-schl\Opdracht Administratie Programma\Administratie programma\Administratie programma\obj\Debug\net8.0\Administratie programma.AssemblyInfoInputs.cache
+C:\Users\Jessi\OneDrive\Documents\cshorp-schl\Opdracht Administratie Programma\Administratie programma\Administratie programma\obj\Debug\net8.0\Administratie programma.AssemblyInfo.cs
+C:\Users\Jessi\OneDrive\Documents\cshorp-schl\Opdracht Administratie Programma\Administratie programma\Administratie programma\obj\Debug\net8.0\Administratie programma.csproj.CoreCompileInputs.cache
+C:\Users\Jessi\OneDrive\Documents\cshorp-schl\Opdracht Administratie Programma\Administratie programma\Administratie programma\obj\Debug\net8.0\Administratie programma.sourcelink.json
+C:\Users\Jessi\OneDrive\Documents\cshorp-schl\Opdracht Administratie Programma\Administratie programma\Administratie programma\bin\Debug\net8.0\Administratie programma.exe
+C:\Users\Jessi\OneDrive\Documents\cshorp-schl\Opdracht Administratie Programma\Administratie programma\Administratie programma\bin\Debug\net8.0\Administratie programma.deps.json
+C:\Users\Jessi\OneDrive\Documents\cshorp-schl\Opdracht Administratie Programma\Administratie programma\Administratie programma\bin\Debug\net8.0\Administratie programma.runtimeconfig.json
+C:\Users\Jessi\OneDrive\Documents\cshorp-schl\Opdracht Administratie Programma\Administratie programma\Administratie programma\bin\Debug\net8.0\Administratie programma.dll
+C:\Users\Jessi\OneDrive\Documents\cshorp-schl\Opdracht Administratie Programma\Administratie programma\Administratie programma\bin\Debug\net8.0\Administratie programma.pdb
+C:\Users\Jessi\OneDrive\Documents\cshorp-schl\Opdracht Administratie Programma\Administratie programma\Administratie programma\obj\Debug\net8.0\Administratie programma.dll
+C:\Users\Jessi\OneDrive\Documents\cshorp-schl\Opdracht Administratie Programma\Administratie programma\Administratie programma\obj\Debug\net8.0\refint\Administratie programma.dll
+C:\Users\Jessi\OneDrive\Documents\cshorp-schl\Opdracht Administratie Programma\Administratie programma\Administratie programma\obj\Debug\net8.0\Administratie programma.pdb
+C:\Users\Jessi\OneDrive\Documents\cshorp-schl\Opdracht Administratie Programma\Administratie programma\Administratie programma\obj\Debug\net8.0\Administratie programma.genruntimeconfig.cache
+C:\Users\Jessi\OneDrive\Documents\cshorp-schl\Opdracht Administratie Programma\Administratie programma\Administratie programma\obj\Debug\net8.0\ref\Administratie programma.dll

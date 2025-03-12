@@ -1,4 +1,5 @@
-﻿using Administratie_programma;
+﻿using System.Linq;
+using Administratie_programma;
 
 namespace readLineTest
 {
@@ -37,20 +38,15 @@ namespace readLineTest
                         Add_User Test = new Add_User(username);
                         biglist.Add(Test);
 
-                        Console.WriteLine($"Added username: {Test.onk}");
-
-                        //Console.WriteLine($"Added user: {Test}"); 
-                        
-
+                        Console.WriteLine($"Added username: {Test.name}");
                         break;
-                    //Main(args);
-                    //return;
+                    
 
                     case 1: // gebruiker bekijken
 
                         foreach (Add_User wa in biglist)
                         {
-                            Console.WriteLine($"Gevonden: {wa.onk}");
+                            Console.WriteLine($"Gevonden: {wa.name}");
                         }
                         break;
 
@@ -58,14 +54,32 @@ namespace readLineTest
 
                         Console.WriteLine("Which user would you like to delete?");
 
-                        //biglist eek;
-
-                        foreach (Add_User wa in biglist)
+                        for(int i = 0; i < biglist.Count; i++)
                         {
-                            Console.WriteLine($"Gevonden: {wa.onk}");
-                            string DeleteUser = Console.ReadLine().ToLower();
-                            //biglist.Remove(DeleteUser, out eek);
+                            Console.WriteLine( $"{i} - User: {biglist[i].name}");
                         }
+
+
+                        //int.TryParse(DeleteUser, out int UserDelete);
+
+                        string a = "boing";
+                        string b = "sing";
+                        string c = a + b;
+
+                        string d = biglist.name;
+                        string deleteUserInfo = Console.ReadLine(); //
+                        if(deleteUserInfo == Add_User.name) { }
+
+
+                        if (biglist.Contains(deleteUserInfo) == false)
+                        {
+                            biglist.Remove(deleteUserInfo);
+                        }
+                        
+                        //what does the value: option do in c#?
+
+                        //biglist.Remove(DeleteUser, out eek);
+
                         //either can ma
 
                         break;
@@ -73,7 +87,7 @@ namespace readLineTest
                     case 3:
 
                         BBreak = true;
-                        Console.WriteLine("Program will be ended shortly");
+                        Console.WriteLine("Program will be ended shortly...");
                         break;
                         
 

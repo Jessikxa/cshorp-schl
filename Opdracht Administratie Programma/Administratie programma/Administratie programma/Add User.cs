@@ -9,13 +9,13 @@ namespace Administratie_programma
     internal class Add_User
     {
 
-            public string onk;
+            public string name;
             public string pass;
 
             public Add_User(string userName)
             {
                 //userName = Console.ReadLine();
-                onk = userName;
+                name = userName;
 
             }
 

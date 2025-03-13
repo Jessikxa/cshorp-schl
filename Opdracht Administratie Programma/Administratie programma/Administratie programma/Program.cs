@@ -60,27 +60,25 @@ namespace readLineTest
                         }
 
 
-                        //int.TryParse(DeleteUser, out int UserDelete);
+                        string deleteUserInfo = Console.ReadLine().ToLower();
+                        int.TryParse(deleteUserInfo, out int indexDelete);
+                        
 
-                        string a = "boing";
-                        string b = "sing";
-                        string c = a + b;
-
-                        string d = biglist.name;
-                        string deleteUserInfo = Console.ReadLine(); //
-                        if(deleteUserInfo == Add_User.name) { }
-
-
-                        if (biglist.Contains(deleteUserInfo) == false)
+                        for (int i = 0; i < biglist.Count; i++)
                         {
-                            biglist.Remove(deleteUserInfo);
+                            if (indexDelete == biglist.IndexOf(biglist[i]))
+                            {
+                                biglist.RemoveAt(indexDelete);
+                                Console.WriteLine($"User deleted: {indexDelete}");
+
+                                Task.Delay(2000).Wait();
+                                Console.Clear();
+                            }
+
+                            Task.Delay(2000).Wait();
+                            Console.WriteLine($"{i} - User currently in list: {biglist[i].name}");
                         }
                         
-                        //what does the value: option do in c#?
-
-                        //biglist.Remove(DeleteUser, out eek);
-
-                        //either can ma
 
                         break;
 

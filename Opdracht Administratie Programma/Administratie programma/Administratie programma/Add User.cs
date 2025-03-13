@@ -8,19 +8,18 @@ namespace Administratie_programma
 {
     internal class Add_User
     {
+        public void AddUser(List<User> biglist)
+        {
 
-            public string name;
-            public string pass;
+            Console.WriteLine("Enter your username:");
+            string username = Console.ReadLine();
 
-            public Add_User(string userName)
-            {
-                //userName = Console.ReadLine();
-                name = userName;
 
-            }
+            User Test = new User(username);
+            biglist.Add(Test);
 
-            public string? UserName { get; }
-        
+            Console.WriteLine($"Added username: {Test.name}");
+
+        }
     }
 }
-

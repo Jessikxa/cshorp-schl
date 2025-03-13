@@ -6,11 +6,15 @@ namespace readLineTest
 
     internal class Program
     {
+
         static void Main(string[] args)
         {
-            List<Add_User> biglist = new List<Add_User>(); //Lijst waar alle informatie over de Users in komt te staan
+            bool BBreak;
+            List<User> biglist = new List<User>(); //Lijst waar alle informatie over de Users in komt te staan
 
-            bool BBreak = false;
+            Close_Program close_Program = new Close_Program();
+            BBreak = close_Program.closeProgram();
+
             while (!BBreak)
             {
 
@@ -31,54 +35,21 @@ namespace readLineTest
                     
                     case 0: // nieuwe gebruikers aanmaken
 
-                        Console.WriteLine("Enter your username:");
-                        string username = Console.ReadLine();
-
-
-                        Add_User Test = new Add_User(username);
-                        biglist.Add(Test);
-
-                        Console.WriteLine($"Added username: {Test.name}");
+                        Add_User newUser = new Add_User();
+                        newUser.AddUser(biglist);
                         break;
                     
 
                     case 1: // gebruiker bekijken
 
-                        foreach (Add_User wa in biglist)
-                        {
-                            Console.WriteLine($"Gevonden: {wa.name}");
-                        }
+                        User_Info User = new User_Info(); 
+                        User.ShowUserInfo(biglist);
                         break;
 
                     case 2: // gebruiker verwijderen
 
-                        Console.WriteLine("Which user would you like to delete?");
-
-                        for(int i = 0; i < biglist.Count; i++)
-                        {
-                            Console.WriteLine( $"{i} - User: {biglist[i].name}");
-                        }
-
-
-                        string deleteUserInfo = Console.ReadLine().ToLower();
-                        int.TryParse(deleteUserInfo, out int indexDelete);
-                        
-
-                        for (int i = 0; i < biglist.Count; i++)
-                        {
-                            if (indexDelete == biglist.IndexOf(biglist[i]))
-                            {
-                                biglist.RemoveAt(indexDelete);
-                                Console.WriteLine($"User deleted: {indexDelete}");
-
-                                Task.Delay(2000).Wait();
-                                Console.Clear();
-                            }
-
-                            Task.Delay(2000).Wait();
-                            Console.WriteLine($"{i} - User currently in list: {biglist[i].name}");
-                        }
-                        
+                        Remove_User remove_User = new Remove_User();
+                        remove_User.SelectDeleteUser(biglist);
 
                         break;
 

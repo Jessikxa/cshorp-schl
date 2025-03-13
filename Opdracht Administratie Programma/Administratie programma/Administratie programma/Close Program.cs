@@ -8,5 +8,9 @@ namespace Administratie_programma
 {
     internal class Close_Program
     {
+        public bool closeProgram()
+        {
+                return false;
+        }
     }
 }

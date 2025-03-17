@@ -1,0 +1,15 @@
+C:\Users\Jessi\OneDrive\Documents\cshorp-schl\Singleton.Test\Singleton.Test\obj\Debug\net8.0\Singleton.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jessi\OneDrive\Documents\cshorp-schl\Singleton.Test\Singleton.Test\obj\Debug\net8.0\Singleton.Test.AssemblyInfoInputs.cache
+C:\Users\Jessi\OneDrive\Documents\cshorp-schl\Singleton.Test\Singleton.Test\obj\Debug\net8.0\Singleton.Test.AssemblyInfo.cs
+C:\Users\Jessi\OneDrive\Documents\cshorp-schl\Singleton.Test\Singleton.Test\obj\Debug\net8.0\Singleton.Test.csproj.CoreCompileInputs.cache
+C:\Users\Jessi\OneDrive\Documents\cshorp-schl\Singleton.Test\Singleton.Test\obj\Debug\net8.0\Singleton.Test.sourcelink.json
+C:\Users\Jessi\OneDrive\Documents\cshorp-schl\Singleton.Test\Singleton.Test\bin\Debug\net8.0\Singleton.Test.exe
+C:\Users\Jessi\OneDrive\Documents\cshorp-schl\Singleton.Test\Singleton.Test\bin\Debug\net8.0\Singleton.Test.deps.json
+C:\Users\Jessi\OneDrive\Documents\cshorp-schl\Singleton.Test\Singleton.Test\bin\Debug\net8.0\Singleton.Test.runtimeconfig.json
+C:\Users\Jessi\OneDrive\Documents\cshorp-schl\Singleton.Test\Singleton.Test\bin\Debug\net8.0\Singleton.Test.dll
+C:\Users\Jessi\OneDrive\Documents\cshorp-schl\Singleton.Test\Singleton.Test\bin\Debug\net8.0\Singleton.Test.pdb
+C:\Users\Jessi\OneDrive\Documents\cshorp-schl\Singleton.Test\Singleton.Test\obj\Debug\net8.0\Singleton.Test.dll
+C:\Users\Jessi\OneDrive\Documents\cshorp-schl\Singleton.Test\Singleton.Test\obj\Debug\net8.0\refint\Singleton.Test.dll
+C:\Users\Jessi\OneDrive\Documents\cshorp-schl\Singleton.Test\Singleton.Test\obj\Debug\net8.0\Singleton.Test.pdb
+C:\Users\Jessi\OneDrive\Documents\cshorp-schl\Singleton.Test\Singleton.Test\obj\Debug\net8.0\Singleton.Test.genruntimeconfig.cache
+C:\Users\Jessi\OneDrive\Documents\cshorp-schl\Singleton.Test\Singleton.Test\obj\Debug\net8.0\ref\Singleton.Test.dll

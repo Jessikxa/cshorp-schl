@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Jessi\\OneDrive\\Documents\\cshorp-schl\\Opdracht Administratie Programma\\Administratie programma\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8163120-A300-4FBA-9DD8-475F524B9C32}|Administratie programma\\Administratie programma.csproj|c:\\users\\jessi\\onedrive\\documents\\cshorp-schl\\opdracht administratie programma\\administratie programma\\administratie programma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8163120-A300-4FBA-9DD8-475F524B9C32}|Administratie programma\\Administratie programma.csproj|solutionrelative:administratie programma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8163120-A300-4FBA-9DD8-475F524B9C32}|Administratie programma\\Administratie programma.csproj|c:\\users\\jessi\\onedrive\\documents\\cshorp-schl\\opdracht administratie programma\\administratie programma\\administratie programma\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8163120-A300-4FBA-9DD8-475F524B9C32}|Administratie programma\\Administratie programma.csproj|solutionrelative:administratie programma\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C8163120-A300-4FBA-9DD8-475F524B9C32}|Administratie programma\\Administratie programma.csproj|c:\\users\\jessi\\onedrive\\documents\\cshorp-schl\\opdracht administratie programma\\administratie programma\\administratie programma\\edit user info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8163120-A300-4FBA-9DD8-475F524B9C32}|Administratie programma\\Administratie programma.csproj|solutionrelative:administratie programma\\edit user info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8163120-A300-4FBA-9DD8-475F524B9C32}|Administratie programma\\Administratie programma.csproj|c:\\users\\jessi\\onedrive\\documents\\cshorp-schl\\opdracht administratie programma\\administratie programma\\administratie programma\\add user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8163120-A300-4FBA-9DD8-475F524B9C32}|Administratie programma\\Administratie programma.csproj|solutionrelative:administratie programma\\add user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8163120-A300-4FBA-9DD8-475F524B9C32}|Administratie programma\\Administratie programma.csproj|c:\\users\\jessi\\onedrive\\documents\\cshorp-schl\\opdracht administratie programma\\administratie programma\\administratie programma\\user info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8163120-A300-4FBA-9DD8-475F524B9C32}|Administratie programma\\Administratie programma.csproj|solutionrelative:administratie programma\\user info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8163120-A300-4FBA-9DD8-475F524B9C32}|Administratie programma\\Administratie programma.csproj|c:\\users\\jessi\\onedrive\\documents\\cshorp-schl\\opdracht administratie programma\\administratie programma\\administratie programma\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8163120-A300-4FBA-9DD8-475F524B9C32}|Administratie programma\\Administratie programma.csproj|solutionrelative:administratie programma\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8163120-A300-4FBA-9DD8-475F524B9C32}|Administratie programma\\Administratie programma.csproj|c:\\users\\jessi\\onedrive\\documents\\cshorp-schl\\opdracht administratie programma\\administratie programma\\administratie programma\\remove user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,6 +17,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{C8163120-A300-4FBA-9DD8-475F524B9C32}|Administratie programma\\Administratie programma.csproj|c:\\users\\jessi\\onedrive\\documents\\cshorp-schl\\opdracht administratie programma\\administratie programma\\administratie programma\\close program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8163120-A300-4FBA-9DD8-475F524B9C32}|Administratie programma\\Administratie programma.csproj|solutionrelative:administratie programma\\close program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8163120-A300-4FBA-9DD8-475F524B9C32}|Administratie programma\\Administratie programma.csproj|c:\\users\\jessi\\onedrive\\documents\\cshorp-schl\\opdracht administratie programma\\administratie programma\\administratie programma\\user info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8163120-A300-4FBA-9DD8-475F524B9C32}|Administratie programma\\Administratie programma.csproj|solutionrelative:administratie programma\\user info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8163120-A300-4FBA-9DD8-475F524B9C32}|Administratie programma\\Administratie programma.csproj|c:\\users\\jessi\\onedrive\\documents\\cshorp-schl\\opdracht administratie programma\\administratie programma\\administratie programma\\add user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8163120-A300-4FBA-9DD8-475F524B9C32}|Administratie programma\\Administratie programma.csproj|solutionrelative:administratie programma\\add user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8163120-A300-4FBA-9DD8-475F524B9C32}|Administratie programma\\Administratie programma.csproj|c:\\users\\jessi\\onedrive\\documents\\cshorp-schl\\opdracht administratie programma\\administratie programma\\administratie programma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8163120-A300-4FBA-9DD8-475F524B9C32}|Administratie programma\\Administratie programma.csproj|solutionrelative:administratie programma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,24 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Add User.cs",
-              "DocumentMoniker": "C:\\Users\\Jessi\\OneDrive\\Documents\\cshorp-schl\\Opdracht Administratie Programma\\Administratie programma\\Administratie programma\\Add User.cs",
-              "RelativeDocumentMoniker": "Administratie programma\\Add User.cs",
-              "ToolTip": "C:\\Users\\Jessi\\OneDrive\\Documents\\cshorp-schl\\Opdracht Administratie Programma\\Administratie programma\\Administratie programma\\Add User.cs",
-              "RelativeToolTip": "Administratie programma\\Add User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T12:25:01.466Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Edit User Info.cs",
               "DocumentMoniker": "C:\\Users\\Jessi\\OneDrive\\Documents\\cshorp-schl\\Opdracht Administratie Programma\\Administratie programma\\Administratie programma\\Edit User Info.cs",
               "RelativeDocumentMoniker": "Administratie programma\\Edit User Info.cs",
@@ -81,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Remove User.cs",
               "DocumentMoniker": "C:\\Users\\Jessi\\OneDrive\\Documents\\cshorp-schl\\Opdracht Administratie Programma\\Administratie programma\\Administratie programma\\Remove User.cs",
               "RelativeDocumentMoniker": "Administratie programma\\Remove User.cs",
@@ -90,6 +77,32 @@
               "ViewState": "AgIAAAQAAAAAAAAAAAAkwAsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T13:22:51.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jessi\\OneDrive\\Documents\\cshorp-schl\\Opdracht Administratie Programma\\Administratie programma\\Administratie programma\\Program.cs",
+              "RelativeDocumentMoniker": "Administratie programma\\Program.cs",
+              "ToolTip": "C:\\Users\\Jessi\\OneDrive\\Documents\\cshorp-schl\\Opdracht Administratie Programma\\Administratie programma\\Administratie programma\\Program.cs",
+              "RelativeToolTip": "Administratie programma\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:18:46.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Add User.cs",
+              "DocumentMoniker": "C:\\Users\\Jessi\\OneDrive\\Documents\\cshorp-schl\\Opdracht Administratie Programma\\Administratie programma\\Administratie programma\\Add User.cs",
+              "RelativeDocumentMoniker": "Administratie programma\\Add User.cs",
+              "ToolTip": "C:\\Users\\Jessi\\OneDrive\\Documents\\cshorp-schl\\Opdracht Administratie Programma\\Administratie programma\\Administratie programma\\Add User.cs",
+              "RelativeToolTip": "Administratie programma\\Add User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T12:25:01.466Z",
               "EditorCaption": ""
             },
             {
@@ -107,20 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Jessi\\OneDrive\\Documents\\cshorp-schl\\Opdracht Administratie Programma\\Administratie programma\\Administratie programma\\Program.cs",
-              "RelativeDocumentMoniker": "Administratie programma\\Program.cs",
-              "ToolTip": "C:\\Users\\Jessi\\OneDrive\\Documents\\cshorp-schl\\Opdracht Administratie Programma\\Administratie programma\\Administratie programma\\Program.cs*",
-              "RelativeToolTip": "Administratie programma\\Program.cs*",
-              "ViewState": "AgIAABMAAAAAAAAAAAAWwCYAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T13:18:46.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Close Program.cs",
               "DocumentMoniker": "C:\\Users\\Jessi\\OneDrive\\Documents\\cshorp-schl\\Opdracht Administratie Programma\\Administratie programma\\Administratie programma\\Close Program.cs",
               "RelativeDocumentMoniker": "Administratie programma\\Close Program.cs",

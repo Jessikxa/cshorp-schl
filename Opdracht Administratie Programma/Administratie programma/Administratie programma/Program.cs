@@ -20,7 +20,7 @@ namespace readLineTest
 
                 Console.Clear(); // verwijdert informatie dat in de console zat
                 
-                //Login page
+                //menu page
                 Console.WriteLine("0 - Nieuwe gebruiker aanmaken");
                 Console.WriteLine("1 - Gebruiker bekijken");
                 Console.WriteLine("2 - Gebruiker verwijderen");
@@ -28,9 +28,9 @@ namespace readLineTest
 
 
                 string input = Console.ReadLine();
-                int.TryParse(input, out int result); // veranderd string input in een getal
+                int.TryParse(input, out int result); // verandert string input naar een getal
 
-                switch (result)
+                switch (result) // leest de resultaat van de input van user
                 {
                     
                     case 0: // nieuwe gebruikers aanmaken
@@ -53,7 +53,7 @@ namespace readLineTest
 
                         break;
 
-                    case 3:
+                    case 3: // eindigt de programma
 
                         BBreak = true;
                         Console.WriteLine("Program will be ended shortly...");
@@ -61,7 +61,7 @@ namespace readLineTest
                         
 
                 }
-                Task.Delay(2000).Wait();
+                Task.Delay(2000).Wait(); // laat programma 2 seconden wachten voordat het weer opnieuw loopt
             }
             //Console.WriteLine("Enter your username:");
             //string username = Console.ReadLine();

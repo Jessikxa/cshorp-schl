@@ -12,7 +12,7 @@ namespace Administratie_programma
         {
             foreach (User wa in biglist) //loopt door de lijst(biglist) en checkt voor gebruikers
             {
-                Console.WriteLine($"Gevonden: {wa.name}");  // print alle gegevens van elke gebruiker in lijst
+                Console.WriteLine($"Gevonden: {wa.name} \n {wa.phoneNumber} \n {wa.adress} ");  // print alle gegevens van elke gebruiker in lijst
             }
 
             Console.WriteLine("druk een knop in om verder te gaan");

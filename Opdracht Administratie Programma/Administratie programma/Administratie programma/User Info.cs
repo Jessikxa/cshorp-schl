@@ -10,10 +10,13 @@ namespace Administratie_programma
     {
         public void ShowUserInfo(List<User> biglist)
         {
-            foreach (User wa in biglist)
+            foreach (User wa in biglist) //loopt door de lijst(biglist) en checkt voor gebruikers
             {
-                Console.WriteLine($"Gevonden: {wa.name}");
+                Console.WriteLine($"Gevonden: {wa.name}");  // print alle gegevens van elke gebruiker in lijst
             }
+
+            Console.WriteLine("druk een knop in om verder te gaan");
+            string temp = Console.ReadLine();
         }
     }
 }

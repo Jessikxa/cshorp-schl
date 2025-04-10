@@ -9,14 +9,17 @@ namespace Administratie_programma
     internal class User
     {
 
-            public string name;
-            public string pass;
+        public string name;
+        public string adress;
+        public string phoneNumber;
+
 
             public User(string userName)
             {
                 //userName = Console.ReadLine();
                 name = userName;
-                
+                //adress = Adress;
+                //phoneNumber = phoneNumber;
             }
 
             public string? UserName { get; }

@@ -13,12 +13,15 @@ namespace Administratie_programma
 
             Console.WriteLine("Enter your username:");
             string username = Console.ReadLine();
-
+            //same for adress and phone number
 
             User Test = new User(username);
             biglist.Add(Test);
 
             Console.WriteLine($"Added username: {Test.name}");
+
+            Console.WriteLine("druk een knop in om verder te gaan");
+            string temp = Console.ReadLine();
 
         }
     }

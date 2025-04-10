@@ -39,6 +39,9 @@ namespace Administratie_programma
             {
                 Console.WriteLine($"{i} - User currently in list: {biglist[i].name}");
             }
+
+            Console.WriteLine("druk een knop in om verder te gaan");
+            string temp = Console.ReadLine();
         }
     }
 }

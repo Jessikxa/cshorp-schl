@@ -24,7 +24,8 @@ namespace readLineTest
                 Console.WriteLine("0 - Nieuwe gebruiker aanmaken");
                 Console.WriteLine("1 - Gebruiker bekijken");
                 Console.WriteLine("2 - Gebruiker verwijderen");
-                Console.WriteLine("3 - Applicatie sluiten");
+                Console.WriteLine("3 - Gebruiker aanpassen");
+                Console.WriteLine("4 - Applicatie sluiten");
 
 
                 string input = Console.ReadLine();
@@ -32,7 +33,7 @@ namespace readLineTest
 
                 switch (result) // leest de resultaat van de input van user
                 {
-                    
+                        
                     case 0: // nieuwe gebruikers aanmaken
 
                         Add_User newUser = new Add_User();
@@ -53,7 +54,14 @@ namespace readLineTest
 
                         break;
 
-                    case 3: // eindigt de programma
+                    case 3: // gebruiker aanpassen
+
+                        Edit_User_Info EditUser = new Edit_User_Info();
+                        EditUser.Edit(biglist);
+
+                        break;
+
+                    case 4: // eindigt de programma
 
                         BBreak = true;
                         Console.WriteLine("Program will be ended shortly...");
@@ -61,6 +69,8 @@ namespace readLineTest
                         
 
                 }
+
+                
                 Task.Delay(2000).Wait(); // laat programma 2 seconden wachten voordat het weer opnieuw loopt
             }
             //Console.WriteLine("Enter your username:");

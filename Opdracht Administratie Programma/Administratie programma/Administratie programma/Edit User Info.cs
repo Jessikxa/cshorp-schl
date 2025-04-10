@@ -32,7 +32,7 @@ namespace Administratie_programma
             {
                 if (indexEdit == biglist.IndexOf(biglist[i]))
                 {
-                    Console.WriteLine($"name: {biglist[i].name}");
+                    Console.WriteLine($"name: {biglist[i].name}  \nphone number: {biglist[i].phoneNumber} \nadress: {biglist[i].adress}");
                     String WhichInfoToChange = Console.ReadLine();
 
 
@@ -45,15 +45,51 @@ namespace Administratie_programma
                         if user types in: dog, that would show an error as biglist.dog does not exist. and make the user allow for re-input
                      */
                     String WhatToChangeTo = "";
-                    User ChangeEdit = new User(WhatToChangeTo);
-                    if (WhichInfoToChange == "name" || WhichInfoToChange == "phone number" ) // biglist.name
-                    {
-                        Console.WriteLine("what would you like to change it to?: ");
-                        WhatToChangeTo = Console.ReadLine();
-                        ChangeEdit.name = WhatToChangeTo;
 
-                        biglist[i].name = ChangeEdit.name;
-                        Console.WriteLine($" Changed {WhichInfoToChange} to: {biglist[i].name}");
+                    if (WhichInfoToChange == "name" || WhichInfoToChange == "phone number" || WhichInfoToChange == "adress") // biglist.name
+                    {
+                        if (WhichInfoToChange == "name")
+                        {
+                            Console.WriteLine("what would you like to change it to?: ");
+                            WhatToChangeTo = Console.ReadLine();
+                            biglist[i].name = WhatToChangeTo;
+
+                            //biglist[i].name = ChangeEdit.name;
+                            Console.WriteLine($" Changed {WhichInfoToChange} to: {biglist[i].name}");
+                        }
+
+                        if (WhichInfoToChange == "phone number")
+                        {
+                            Console.WriteLine("what would you like to change it to?: ");
+                            WhatToChangeTo = Console.ReadLine();
+                            int value;
+                            Int32.TryParse(WhatToChangeTo, out value);
+
+                            biglist[i].phoneNumber = value;
+
+                            //biglist[i].phoneNumber = ChangeEdit.phoneNumber;
+                            Console.WriteLine($" Changed {WhichInfoToChange} to: {biglist[i].phoneNumber}");
+                            Console.WriteLine($" User: {biglist[i]}");
+                        }
+
+                        if (WhichInfoToChange == "adress")
+                        {
+                            Console.WriteLine("what would you like to change it to?: ");
+                            WhatToChangeTo = Console.ReadLine();
+
+                            biglist[i].adress = WhatToChangeTo;
+                            //ChangeEdit.adress = WhatToChangeTo;
+
+                            //biglist[i].adress = ChangeEdit.adress;
+                            Console.WriteLine($" Changed {WhichInfoToChange} to: {biglist[i].adress}");
+                        }
+
+                        //Console.WriteLine("what would you like to change it to?: ");
+                        //WhatToChangeTo = Console.ReadLine();
+                        //ChangeEdit.name = WhatToChangeTo;
+
+                        //biglist[i].name = ChangeEdit.name;
+                        //Console.WriteLine($" Changed {WhichInfoToChange} to: {biglist[i].name}");
                     }
                     else
                     {

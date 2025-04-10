@@ -11,15 +11,15 @@ namespace Administratie_programma
 
         public string name;
         public string adress;
-        public string phoneNumber;
+        public int phoneNumber;
 
 
-            public User(string userName)
+            public User(string userName, int PhoneNumber, string Adress )
             {
                 //userName = Console.ReadLine();
                 name = userName;
-                //adress = Adress;
-                //phoneNumber = phoneNumber;
+                phoneNumber = PhoneNumber;
+                adress = Adress;
             }
 
             public string? UserName { get; }

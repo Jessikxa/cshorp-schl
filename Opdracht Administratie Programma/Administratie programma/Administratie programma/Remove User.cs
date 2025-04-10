@@ -33,6 +33,10 @@ namespace Administratie_programma
                     Task.Delay(2000).Wait();
                     Console.Clear();
                 }
+                else
+                {
+                    Console.WriteLine("nononoo. try again");
+                }
             }
 
             for (int i = 0; i < biglist.Count; i++)

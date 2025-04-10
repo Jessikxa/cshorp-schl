@@ -31,6 +31,12 @@ namespace readLineTest
                 string input = Console.ReadLine();
                 int.TryParse(input, out int result); // verandert string input naar een getal
 
+                if (result < 0 || result > 4 ) // of als float
+                {
+                    Console.WriteLine("number inputted does not exist. please try again");
+                }
+                
+
                 switch (result) // leest de resultaat van de input van user
                 {
                         
